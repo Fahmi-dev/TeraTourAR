@@ -1,0 +1,422 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:2:1-50:12
+MERGED from [com.android.databinding:adapters:3.2.1] /root/.gradle/caches/transforms-1/files-1.1/adapters-3.2.1.aar/42c4453447947cf64709e9a1655c80f9/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.databinding:library:3.2.1] /root/.gradle/caches/transforms-1/files-1.1/library-3.2.1.aar/4cfcb1015a459bcab7c8f041df883efc/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/e16e575722bd218000e93d4012c1a119/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/c416576b6eb36a25a84322caf3e45de1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/ec30fed56b593ef8f7689a8bb63ca121/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/1766b15495ad75700f4e63792ce34e8e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /root/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/317bb1ff6f12e8ef423996c0a5f4be1a/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /root/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/00d71a131df43f7f53682d6eea05c8df/AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/31fe9dc2bb86f9a0f2c3b0e94a9bd17a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/64407ebbbde038ad4102d151389826ad/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/f974d502e699ddbf0b2d8162dc76a251/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/4955df1c30561d601cc9b92e08205a3b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/fdbaf571a3049b277d44f8f931b59943/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/bbe052ba4dfbfb9975c829e42789d5b3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/9baa76b0d01c4db711fcbf4231a6e149/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/9bd571c6b341c94d9ad7170b75e44611/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/e56e3546506ac64f940c446c97ea32c4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/c4f51b776d092b03fbe11380ea4a3b0d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/2d6e1bd3189434d85fe5650b4d22e294/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/bec0c95962df58285bf8da9c3203a2ff/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/9be97b64c488836c81ed3a3ead601b50/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/5f1d119bd2041167344ac81267998a78/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/0517daae23f658c7f6589fb79e75b67a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/03aff9a501eea71e2c50035f517826a4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/219aad1b401409c5bdc352fb50a817a3/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d3e166d275ec7e7b6046c9351690c1ce/AndroidManifest.xml:17:1-22:12
+MERGED from [:android_component:] /root/.gradle/caches/transforms-1/files-1.1/android_component.aar/179ddb7e332ba59cc646d12ebf15e528/AndroidManifest.xml:2:1-11:12
+MERGED from [:core-1.1.0:] /root/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/51eb84b9fe648512c27e05a12aaf3832/AndroidManifest.xml:17:1-44:12
+MERGED from [:unity_android_bridge:] /root/.gradle/caches/transforms-1/files-1.1/unity_android_bridge.aar/fcb2c72b32aa6836386d8556750f843a/AndroidManifest.xml:2:1-12:12
+MERGED from [:teratourandroidlib] /media/francis/DataBase/Tera/TeraTourAR/teratourandroidlib/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-32:12
+MERGED from [:everyplay] /media/francis/DataBase/Tera/TeraTourAR/everyplay/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-60:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/6f4f8b2c4cb1aad59dbd41f8ba8025ec/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/bd7588976a5387ed14da40a89fbaabf8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /root/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/b29b16acc7e0b2ffb26b469f078e96b4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /root/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/ce96bdfec056a237275d345dce7008fb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2c69a78236a133f21fe6edeb9ce8b74e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /root/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/8497eaeb4157c42358c7b5d8e3c9e6ca/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/30cdad4e811dfcf55f94bad2a29d84f0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/19e19827cf00fe90e3dcafb731c7b2bb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/4d787442f9c98ec68e3dcd477bd950a2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/74ea30dd4d8c910b7a0016488b3a37fc/AndroidManifest.xml:17:1-22:12
+INJECTED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:2:1-50:12
+	package
+		ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:4:5-33
+		INJECTED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml
+		INJECTED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml
+		ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:2:1-50:12
+		INJECTED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml
+		ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:2:1-50:12
+		INJECTED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:5:5-45
+uses-sdk
+ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:6:3-15
+INJECTED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:6:3-15
+MERGED from [com.android.databinding:adapters:3.2.1] /root/.gradle/caches/transforms-1/files-1.1/adapters-3.2.1.aar/42c4453447947cf64709e9a1655c80f9/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:adapters:3.2.1] /root/.gradle/caches/transforms-1/files-1.1/adapters-3.2.1.aar/42c4453447947cf64709e9a1655c80f9/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.2.1] /root/.gradle/caches/transforms-1/files-1.1/library-3.2.1.aar/4cfcb1015a459bcab7c8f041df883efc/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.2.1] /root/.gradle/caches/transforms-1/files-1.1/library-3.2.1.aar/4cfcb1015a459bcab7c8f041df883efc/AndroidManifest.xml:22:5-44
+MERGED from [com.android.support:design:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/e16e575722bd218000e93d4012c1a119/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/e16e575722bd218000e93d4012c1a119/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/c416576b6eb36a25a84322caf3e45de1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/c416576b6eb36a25a84322caf3e45de1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/ec30fed56b593ef8f7689a8bb63ca121/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/ec30fed56b593ef8f7689a8bb63ca121/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/1766b15495ad75700f4e63792ce34e8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/1766b15495ad75700f4e63792ce34e8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /root/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/317bb1ff6f12e8ef423996c0a5f4be1a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /root/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/317bb1ff6f12e8ef423996c0a5f4be1a/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /root/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/00d71a131df43f7f53682d6eea05c8df/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /root/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/00d71a131df43f7f53682d6eea05c8df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/31fe9dc2bb86f9a0f2c3b0e94a9bd17a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/31fe9dc2bb86f9a0f2c3b0e94a9bd17a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/64407ebbbde038ad4102d151389826ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/64407ebbbde038ad4102d151389826ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/f974d502e699ddbf0b2d8162dc76a251/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/f974d502e699ddbf0b2d8162dc76a251/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/4955df1c30561d601cc9b92e08205a3b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/4955df1c30561d601cc9b92e08205a3b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/fdbaf571a3049b277d44f8f931b59943/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/fdbaf571a3049b277d44f8f931b59943/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/bbe052ba4dfbfb9975c829e42789d5b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/bbe052ba4dfbfb9975c829e42789d5b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/9baa76b0d01c4db711fcbf4231a6e149/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/9baa76b0d01c4db711fcbf4231a6e149/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/9bd571c6b341c94d9ad7170b75e44611/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/9bd571c6b341c94d9ad7170b75e44611/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/e56e3546506ac64f940c446c97ea32c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/e56e3546506ac64f940c446c97ea32c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/c4f51b776d092b03fbe11380ea4a3b0d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/c4f51b776d092b03fbe11380ea4a3b0d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/2d6e1bd3189434d85fe5650b4d22e294/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/2d6e1bd3189434d85fe5650b4d22e294/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/bec0c95962df58285bf8da9c3203a2ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/bec0c95962df58285bf8da9c3203a2ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/9be97b64c488836c81ed3a3ead601b50/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/9be97b64c488836c81ed3a3ead601b50/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/5f1d119bd2041167344ac81267998a78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/5f1d119bd2041167344ac81267998a78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/0517daae23f658c7f6589fb79e75b67a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/0517daae23f658c7f6589fb79e75b67a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/03aff9a501eea71e2c50035f517826a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/03aff9a501eea71e2c50035f517826a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/219aad1b401409c5bdc352fb50a817a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/219aad1b401409c5bdc352fb50a817a3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d3e166d275ec7e7b6046c9351690c1ce/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d3e166d275ec7e7b6046c9351690c1ce/AndroidManifest.xml:20:5-44
+MERGED from [:android_component:] /root/.gradle/caches/transforms-1/files-1.1/android_component.aar/179ddb7e332ba59cc646d12ebf15e528/AndroidManifest.xml:7:5-9:41
+MERGED from [:android_component:] /root/.gradle/caches/transforms-1/files-1.1/android_component.aar/179ddb7e332ba59cc646d12ebf15e528/AndroidManifest.xml:7:5-9:41
+MERGED from [:core-1.1.0:] /root/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/51eb84b9fe648512c27e05a12aaf3832/AndroidManifest.xml:25:5-44
+MERGED from [:core-1.1.0:] /root/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/51eb84b9fe648512c27e05a12aaf3832/AndroidManifest.xml:25:5-44
+MERGED from [:core-1.1.0:] /root/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/51eb84b9fe648512c27e05a12aaf3832/AndroidManifest.xml:26:5-47
+MERGED from [:core-1.1.0:] /root/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/51eb84b9fe648512c27e05a12aaf3832/AndroidManifest.xml:26:5-47
+MERGED from [:unity_android_bridge:] /root/.gradle/caches/transforms-1/files-1.1/unity_android_bridge.aar/fcb2c72b32aa6836386d8556750f843a/AndroidManifest.xml:8:5-10:41
+MERGED from [:unity_android_bridge:] /root/.gradle/caches/transforms-1/files-1.1/unity_android_bridge.aar/fcb2c72b32aa6836386d8556750f843a/AndroidManifest.xml:8:5-10:41
+MERGED from [:teratourandroidlib] /media/francis/DataBase/Tera/TeraTourAR/teratourandroidlib/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:5-10:41
+MERGED from [:teratourandroidlib] /media/francis/DataBase/Tera/TeraTourAR/teratourandroidlib/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:5-10:41
+MERGED from [:everyplay] /media/francis/DataBase/Tera/TeraTourAR/everyplay/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:9:5-44
+MERGED from [:everyplay] /media/francis/DataBase/Tera/TeraTourAR/everyplay/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:9:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/6f4f8b2c4cb1aad59dbd41f8ba8025ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/6f4f8b2c4cb1aad59dbd41f8ba8025ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/bd7588976a5387ed14da40a89fbaabf8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/bd7588976a5387ed14da40a89fbaabf8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /root/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/b29b16acc7e0b2ffb26b469f078e96b4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /root/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/b29b16acc7e0b2ffb26b469f078e96b4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /root/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/ce96bdfec056a237275d345dce7008fb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /root/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/ce96bdfec056a237275d345dce7008fb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2c69a78236a133f21fe6edeb9ce8b74e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2c69a78236a133f21fe6edeb9ce8b74e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /root/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/8497eaeb4157c42358c7b5d8e3c9e6ca/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /root/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/8497eaeb4157c42358c7b5d8e3c9e6ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/30cdad4e811dfcf55f94bad2a29d84f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/30cdad4e811dfcf55f94bad2a29d84f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/19e19827cf00fe90e3dcafb731c7b2bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/19e19827cf00fe90e3dcafb731c7b2bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/4d787442f9c98ec68e3dcd477bd950a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/4d787442f9c98ec68e3dcd477bd950a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/74ea30dd4d8c910b7a0016488b3a37fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/74ea30dd4d8c910b7a0016488b3a37fc/AndroidManifest.xml:20:5-44
+INJECTED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:6:3-15
+	android:targetSdkVersion
+		ADDED from [com.android.support.constraint:constraint-layout:1.1.3] /root/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/317bb1ff6f12e8ef423996c0a5f4be1a/AndroidManifest.xml:7:9-38
+	android:minSdkVersion
+		INJECTED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml
+		ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:6:3-15
+		MERGED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:6:3-15
+		INJECTED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:7:3-63
+	android:name
+		ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:7:20-60
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:8:3-79
+MERGED from [:teratourandroidlib] /media/francis/DataBase/Tera/TeraTourAR/teratourandroidlib/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:12:5-81
+MERGED from [:teratourandroidlib] /media/francis/DataBase/Tera/TeraTourAR/teratourandroidlib/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:12:5-81
+MERGED from [:everyplay] /media/francis/DataBase/Tera/TeraTourAR/everyplay/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:22:5-81
+MERGED from [:everyplay] /media/francis/DataBase/Tera/TeraTourAR/everyplay/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:8:20-76
+uses-permission#android.permission.INTERNET
+ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:9:3-65
+MERGED from [:everyplay] /media/francis/DataBase/Tera/TeraTourAR/everyplay/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:20:5-67
+MERGED from [:everyplay] /media/francis/DataBase/Tera/TeraTourAR/everyplay/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:20:5-67
+	android:name
+		ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:9:20-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:10:3-77
+MERGED from [:everyplay] /media/francis/DataBase/Tera/TeraTourAR/everyplay/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:18:5-79
+MERGED from [:everyplay] /media/francis/DataBase/Tera/TeraTourAR/everyplay/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:10:20-74
+uses-feature#0x00020000
+ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:12:3-76
+	android:glEsVersion
+		ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:12:17-49
+	android:required
+		ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:12:50-73
+uses-feature#android.hardware.camera
+ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:14:3-82
+	android:required
+		ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:14:56-79
+	android:name
+		ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:14:17-55
+supports-screens
+ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:16:3-21:38
+MERGED from [:everyplay] /media/francis/DataBase/Tera/TeraTourAR/everyplay/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-16:40
+MERGED from [:everyplay] /media/francis/DataBase/Tera/TeraTourAR/everyplay/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-16:40
+	android:largeScreens
+		ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:17:7-34
+	android:smallScreens
+		ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:19:7-35
+		REJECTED from [:everyplay] /media/francis/DataBase/Tera/TeraTourAR/everyplay/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:15:9-36
+	android:normalScreens
+		ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:18:7-35
+	android:xlargeScreens
+		ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:21:7-35
+	android:anyDensity
+		ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:16:21-46
+	tools:replace
+		ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:20:7-43
+application
+ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:23:3-43:17
+MERGED from [com.android.support:design:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/e16e575722bd218000e93d4012c1a119/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/e16e575722bd218000e93d4012c1a119/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /root/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/317bb1ff6f12e8ef423996c0a5f4be1a/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /root/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/317bb1ff6f12e8ef423996c0a5f4be1a/AndroidManifest.xml:9:5-20
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /root/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/00d71a131df43f7f53682d6eea05c8df/AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /root/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/00d71a131df43f7f53682d6eea05c8df/AndroidManifest.xml:22:5-28:19
+MERGED from [com.android.support:support-compat:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/219aad1b401409c5bdc352fb50a817a3/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/219aad1b401409c5bdc352fb50a817a3/AndroidManifest.xml:22:5-94
+MERGED from [:core-1.1.0:] /root/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/51eb84b9fe648512c27e05a12aaf3832/AndroidManifest.xml:28:5-42:19
+MERGED from [:core-1.1.0:] /root/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/51eb84b9fe648512c27e05a12aaf3832/AndroidManifest.xml:28:5-42:19
+MERGED from [:teratourandroidlib] /media/francis/DataBase/Tera/TeraTourAR/teratourandroidlib/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:24:5-30:19
+MERGED from [:teratourandroidlib] /media/francis/DataBase/Tera/TeraTourAR/teratourandroidlib/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:24:5-30:19
+MERGED from [:everyplay] /media/francis/DataBase/Tera/TeraTourAR/everyplay/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:36:5-58:19
+MERGED from [:everyplay] /media/francis/DataBase/Tera/TeraTourAR/everyplay/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:36:5-58:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/6f4f8b2c4cb1aad59dbd41f8ba8025ec/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/6f4f8b2c4cb1aad59dbd41f8ba8025ec/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/219aad1b401409c5bdc352fb50a817a3/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:23:16-48
+	android:icon
+		ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:26:7-38
+	android:banner
+		ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:25:7-44
+	android:theme
+		ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:27:7-48
+	android:isGame
+		ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:24:7-28
+activity#com.itera.teratour.View.UnityPlayerActivity
+ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:29:5-37:16
+	android:configChanges
+		ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:30:9-166
+	android:theme
+		ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:31:9-65
+	android:name
+		ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:29:15-55
+intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.VIEW+category:name:android.intent.category.LAUNCHER
+ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:32:7-36:23
+action#android.intent.action.VIEW
+ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:33:9-60
+	android:name
+		ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:33:17-58
+action#android.intent.action.MAIN
+ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:34:9-61
+	android:name
+		ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:34:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:35:9-69
+	android:name
+		ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:35:19-66
+meta-data#com.google.ar.core
+ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:39:5-77
+	android:value
+		ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:39:50-74
+	android:name
+		ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:39:16-49
+meta-data#unity.build-id
+ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:40:5-101
+	android:value
+		ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:40:46-98
+	android:name
+		ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:40:16-45
+meta-data#unity.splash-mode
+ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:41:5-69
+	android:value
+		ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:41:49-66
+	android:name
+		ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:41:16-48
+meta-data#unity.splash-enable
+ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:42:5-74
+	android:value
+		ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:42:51-71
+	android:name
+		ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:42:16-50
+uses-feature#android.hardware.camera.autofocus
+ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:45:3-93
+	android:required
+		ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:45:66-90
+	android:name
+		ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:45:17-65
+uses-feature#android.hardware.camera.front
+ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:46:3-89
+	android:required
+		ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:46:62-86
+	android:name
+		ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:46:17-61
+uses-feature#android.hardware.touchscreen
+ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:47:3-88
+MERGED from [:teratourandroidlib] /media/francis/DataBase/Tera/TeraTourAR/teratourandroidlib/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:14:5-16:35
+MERGED from [:teratourandroidlib] /media/francis/DataBase/Tera/TeraTourAR/teratourandroidlib/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:14:5-16:35
+MERGED from [:everyplay] /media/francis/DataBase/Tera/TeraTourAR/everyplay/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:24:5-26:36
+MERGED from [:everyplay] /media/francis/DataBase/Tera/TeraTourAR/everyplay/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:47:61-85
+	android:name
+		ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:47:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:48:3-99
+MERGED from [:teratourandroidlib] /media/francis/DataBase/Tera/TeraTourAR/teratourandroidlib/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:17:5-19:35
+MERGED from [:teratourandroidlib] /media/francis/DataBase/Tera/TeraTourAR/teratourandroidlib/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:17:5-19:35
+MERGED from [:everyplay] /media/francis/DataBase/Tera/TeraTourAR/everyplay/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:27:5-29:36
+MERGED from [:everyplay] /media/francis/DataBase/Tera/TeraTourAR/everyplay/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:48:72-96
+	android:name
+		ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:48:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:49:3-108
+MERGED from [:teratourandroidlib] /media/francis/DataBase/Tera/TeraTourAR/teratourandroidlib/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:20:5-22:35
+MERGED from [:teratourandroidlib] /media/francis/DataBase/Tera/TeraTourAR/teratourandroidlib/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:20:5-22:35
+MERGED from [:everyplay] /media/francis/DataBase/Tera/TeraTourAR/everyplay/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:30:5-32:36
+MERGED from [:everyplay] /media/francis/DataBase/Tera/TeraTourAR/everyplay/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:30:5-32:36
+	android:required
+		ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:49:81-105
+	android:name
+		ADDED from /media/francis/DataBase/Tera/TeraTourAR/src/main/AndroidManifest.xml:49:17-80
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] /root/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/00d71a131df43f7f53682d6eea05c8df/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /root/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/00d71a131df43f7f53682d6eea05c8df/AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /root/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/00d71a131df43f7f53682d6eea05c8df/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /root/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/00d71a131df43f7f53682d6eea05c8df/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /root/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/00d71a131df43f7f53682d6eea05c8df/AndroidManifest.xml:24:13-83
+activity#com.google.ar.core.InstallActivity
+ADDED from [:core-1.1.0:] /root/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/51eb84b9fe648512c27e05a12aaf3832/AndroidManifest.xml:31:9-37:80
+	android:excludeFromRecents
+		ADDED from [:core-1.1.0:] /root/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/51eb84b9fe648512c27e05a12aaf3832/AndroidManifest.xml:34:13-46
+	android:launchMode
+		ADDED from [:core-1.1.0:] /root/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/51eb84b9fe648512c27e05a12aaf3832/AndroidManifest.xml:36:13-43
+	android:exported
+		ADDED from [:core-1.1.0:] /root/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/51eb84b9fe648512c27e05a12aaf3832/AndroidManifest.xml:35:13-37
+	android:configChanges
+		ADDED from [:core-1.1.0:] /root/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/51eb84b9fe648512c27e05a12aaf3832/AndroidManifest.xml:33:13-74
+	android:theme
+		ADDED from [:core-1.1.0:] /root/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/51eb84b9fe648512c27e05a12aaf3832/AndroidManifest.xml:37:13-77
+	android:name
+		ADDED from [:core-1.1.0:] /root/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/51eb84b9fe648512c27e05a12aaf3832/AndroidManifest.xml:32:13-62
+meta-data#com.google.ar.core.min_apk_version
+ADDED from [:core-1.1.0:] /root/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/51eb84b9fe648512c27e05a12aaf3832/AndroidManifest.xml:39:9-41:41
+	android:value
+		ADDED from [:core-1.1.0:] /root/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/51eb84b9fe648512c27e05a12aaf3832/AndroidManifest.xml:41:13-38
+	android:name
+		ADDED from [:core-1.1.0:] /root/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/51eb84b9fe648512c27e05a12aaf3832/AndroidManifest.xml:40:13-62
+activity#com.teratour.plugin.teratourandroidlib.VideoPlayerActivity
+ADDED from [:teratourandroidlib] /media/francis/DataBase/Tera/TeraTourAR/teratourandroidlib/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:25:9-29:20
+	android:name
+		ADDED from [:teratourandroidlib] /media/francis/DataBase/Tera/TeraTourAR/teratourandroidlib/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:25:19-92
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:everyplay] /media/francis/DataBase/Tera/TeraTourAR/everyplay/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:19:5-76
+	android:name
+		ADDED from [:everyplay] /media/francis/DataBase/Tera/TeraTourAR/everyplay/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:19:22-73
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:everyplay] /media/francis/DataBase/Tera/TeraTourAR/everyplay/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:21:5-80
+	android:name
+		ADDED from [:everyplay] /media/francis/DataBase/Tera/TeraTourAR/everyplay/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:21:22-77
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:everyplay] /media/francis/DataBase/Tera/TeraTourAR/everyplay/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:34:5-68
+	android:name
+		ADDED from [:everyplay] /media/francis/DataBase/Tera/TeraTourAR/everyplay/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:34:22-65
+activity#com.everyplay.Everyplay.view.EveryplayTextInputActivity
+ADDED from [:everyplay] /media/francis/DataBase/Tera/TeraTourAR/everyplay/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:37:9-43:71
+	android:screenOrientation
+		ADDED from [:everyplay] /media/francis/DataBase/Tera/TeraTourAR/everyplay/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:41:13-47
+	android:hardwareAccelerated
+		ADDED from [:everyplay] /media/francis/DataBase/Tera/TeraTourAR/everyplay/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:40:13-48
+	android:windowSoftInputMode
+		ADDED from [:everyplay] /media/francis/DataBase/Tera/TeraTourAR/everyplay/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:43:13-68
+	android:configChanges
+		ADDED from [:everyplay] /media/francis/DataBase/Tera/TeraTourAR/everyplay/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:39:13-115
+	android:theme
+		ADDED from [:everyplay] /media/francis/DataBase/Tera/TeraTourAR/everyplay/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:42:13-60
+	android:name
+		ADDED from [:everyplay] /media/francis/DataBase/Tera/TeraTourAR/everyplay/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:38:13-83
+activity#com.everyplay.Everyplay.view.videoplayer.EveryplayVideoPlayerActivity
+ADDED from [:everyplay] /media/francis/DataBase/Tera/TeraTourAR/everyplay/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:44:9-50:58
+	android:screenOrientation
+		ADDED from [:everyplay] /media/francis/DataBase/Tera/TeraTourAR/everyplay/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:48:13-47
+	android:hardwareAccelerated
+		ADDED from [:everyplay] /media/francis/DataBase/Tera/TeraTourAR/everyplay/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:47:13-47
+	android:windowSoftInputMode
+		ADDED from [:everyplay] /media/francis/DataBase/Tera/TeraTourAR/everyplay/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:50:13-55
+	android:configChanges
+		ADDED from [:everyplay] /media/francis/DataBase/Tera/TeraTourAR/everyplay/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:46:13-106
+	android:theme
+		ADDED from [:everyplay] /media/francis/DataBase/Tera/TeraTourAR/everyplay/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:49:13-71
+	android:name
+		ADDED from [:everyplay] /media/francis/DataBase/Tera/TeraTourAR/everyplay/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:45:13-97
+activity#com.everyplay.Everyplay.view.videoplayer.EveryplayVideoEditorActivity
+ADDED from [:everyplay] /media/francis/DataBase/Tera/TeraTourAR/everyplay/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:51:9-57:58
+	android:screenOrientation
+		ADDED from [:everyplay] /media/francis/DataBase/Tera/TeraTourAR/everyplay/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:55:13-47
+	android:hardwareAccelerated
+		ADDED from [:everyplay] /media/francis/DataBase/Tera/TeraTourAR/everyplay/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:54:13-47
+	android:windowSoftInputMode
+		ADDED from [:everyplay] /media/francis/DataBase/Tera/TeraTourAR/everyplay/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:57:13-55
+	android:configChanges
+		ADDED from [:everyplay] /media/francis/DataBase/Tera/TeraTourAR/everyplay/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:53:13-106
+	android:theme
+		ADDED from [:everyplay] /media/francis/DataBase/Tera/TeraTourAR/everyplay/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:56:13-71
+	android:name
+		ADDED from [:everyplay] /media/francis/DataBase/Tera/TeraTourAR/everyplay/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:52:13-97
